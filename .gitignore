@@ -1,0 +1,9 @@
+# Ignore Python virtual environments
+venv/
+.env/
+
+# Ignore CSV files
+*.csv
+
+# macOS
+.DS_Store
